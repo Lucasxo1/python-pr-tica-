@@ -1,0 +1,5 @@
+cores_vendidas = ("azul", "vermelho", "preto", "azul", "verde", "azul", "preto")
+print(cores_vendidas[-1])
+print(cores_vendidas.count("azul"))
+print(cores_vendidas.index("vermelho"))
+print(len(cores_vendidas))
